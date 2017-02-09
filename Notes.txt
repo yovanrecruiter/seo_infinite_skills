@@ -22,4 +22,29 @@ http://optinmonster.com/improving-your-seo-to-generate-more-leads/
 
 Google gets 3 billion searches everyday. So not being visible on the web is a huge mistake.
 
+We will see:
+1. How serch engines crawl, index and rank content.
+2. What our audience is searching for and create content for them.
+3. Technical SEO, i.e build a clean site that's easy for Google to find and index.
+4. On-page optimizaions (content creation)- Create relevant content that Google and our readers will love, i.e optimized headlines, images, content body.
+5. Off-page optimization: Boost our link authority abd drive our rankings to the top. This is all about building authority, i.e social media interactions etc.
+6. Measurement and conversion optimization: Measure the performance of our keywords so that we can do more of what works.
+7. Paid search: PPC 
+
+How search engines operate
+---------------------------
+We must give search engines what they want. The more we are relevant to what they want, the more will be well ranked.
+
+There are 3 steps to how search engine work:
+1. Crawling: How SE find content on the web, following links through their bots/spiders which visit web pages.
+
+2. Indexing: Once content is found this is how SE store it in its index, which is a massive database containing all the information about webpages on the internet. The index contain only info about what our pages are all about. Indexing is a clean way to order web pages.
+
+3. Ranking: Once content is stored in the index, they compare with other content and rank it accordingly using an algorithm: mathematical process to determine which web page is the most relevant to the text we were searching for.
+
+
+
+
+
+
 
